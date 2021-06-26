@@ -31,4 +31,10 @@ Used the data to complete the following tasks:
   * weight is less than the 2.5th percentile
   * weight is more than the 97.5th percentile
 * Creating a correlation matrix using seaborn's heatmap()
-![](https://github.com/sarthaka2018/Medical-Data-Visualizer/blob/main/Figure_2.png)
+![](/main/Figure_2.png)
+
+
+# [**Project 3: Page View Analysis**](https://github.com/sarthaka2018/Page-View-Visualisation)
+
+This project involves visualizing time series data using a line chart, bar chart, and box plots. With the use Pandas, Matplotlib, and Seaborn we visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will to you understand the patterns in visits and identify yearly and monthly growth.
+![](/main/Figure_3.png)
