@@ -31,4 +31,4 @@ Used the data to complete the following tasks:
   * weight is less than the 2.5th percentile
   * weight is more than the 97.5th percentile
 * Creating a correlation matrix using seaborn's heatmap()
-![](https://github.com/sarthaka2018/Medical-Data-Visualizer/blob/main/Figure_1.png "Chart of Variables based on Cardio Value")
+![](https://github.com/sarthaka2018/Medical-Data-Visualizer/blob/main/Figure_2.png)
