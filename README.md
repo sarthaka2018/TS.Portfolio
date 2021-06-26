@@ -15,3 +15,20 @@ Used Pandas to answer the following questions:
 * What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
 * What country has the highest percentage of people that earn >50K and what is that percentage?
 * Identify the most popular occupation for those who earn >50K in India.
+
+
+# [**Project 2: Medical Data Visualisation*](https://github.com/sarthaka2018/Medical-Data-Visualizer)
+This project involves visualizing and making calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations (provided by FCC).
+
+Used the data to complete the following tasks:
+
+* Adding an overweight column by determining if a person is overweight using BMI. If that value is > 25 then the person is overweight.
+* Normalizing the data by making 0 always good and 1 always bad across all the columns.
+* Cleaning the data and Filtering out the patient segments that represent incorrect data like
+  * diastolic pressure is higher than systolic (Keep the correct data with (df['ap_lo'] <= df['ap_hi']))
+  * height is less than the 2.5th percentile (Keep the correct data with (df['height'] >= df['height'].quantile(0.025)))
+  * height is more than the 97.5th percentile
+  * weight is less than the 2.5th percentile
+  * weight is more than the 97.5th percentile
+* Creating a correlation matrix using seaborn's heatmap()
+![](/blob/main/Figure_1.png "Chart of Variables based on Cardio Value:)
