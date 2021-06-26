@@ -1,4 +1,4 @@
-# TS.Portfolio
+# Tathagat Sarthaka' Portfolio
 
 
 # **Project 1: Demographic Data Analyzer**
