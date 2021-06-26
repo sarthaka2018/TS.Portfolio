@@ -25,10 +25,10 @@ Used the data to complete the following tasks:
 * Adding an overweight column by determining if a person is overweight using BMI. If that value is > 25 then the person is overweight.
 * Normalizing the data by making 0 always good and 1 always bad across all the columns.
 * Cleaning the data and Filtering out the patient segments that represent incorrect data like
-  * diastolic pressure is higher than systolic (Keep the correct data with (df['ap_lo'] <= df['ap_hi']))
-  * height is less than the 2.5th percentile (Keep the correct data with (df['height'] >= df['height'].quantile(0.025)))
+  * diastolic pressure is higher than systolic
+  * height is less than the 2.5th percentile
   * height is more than the 97.5th percentile
   * weight is less than the 2.5th percentile
   * weight is more than the 97.5th percentile
 * Creating a correlation matrix using seaborn's heatmap()
-![](/blob/main/Figure_1.png "Chart of Variables based on Cardio Value:)
+![](Figure_1.png "Chart of Variables based on Cardio Value")
