@@ -17,7 +17,7 @@ Used Pandas to answer the following questions:
 * Identify the most popular occupation for those who earn >50K in India.
 
 
-# [**Project 2: Medical Data Visualisation*](https://github.com/sarthaka2018/Medical-Data-Visualizer)
+# [**Project 2: Medical Data Visualisation**](https://github.com/sarthaka2018/Medical-Data-Visualizer)
 This project involves visualizing and making calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations (provided by FCC).
 
 Used the data to complete the following tasks:
