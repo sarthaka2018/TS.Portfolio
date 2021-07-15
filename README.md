@@ -38,3 +38,9 @@ Used the data to complete the following tasks:
 
 This project involves visualizing time series data using a line chart, bar chart, and box plots. With the use Pandas, Matplotlib, and Seaborn we visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will to you understand the patterns in visits and identify yearly and monthly growth.
 ![](https://github.com/sarthaka2018/Page-View-Visualisation/blob/main/Figure_3.png)
+
+
+# [**Project 4: Portfolio Optimisation**](https://github.com/sarthaka2018/Portfolio-Optimisation)
+
+This project involves Optimisation of portfolio of given 4 stocks consisting of RELIANCE, SBI, TATAMOTORS and INFOSYS using Sharpe Ratio.
+![Sharpe Ratio Plot](https://github.com/sarthaka2018/Portfolio-Optimisation/blob/main/plot.png)
